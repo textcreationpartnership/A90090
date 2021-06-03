@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon, and in answer to his excellencies late letter to the honourable Citie of London, for raising assessements, and free-quarter, (alias) plunder. With the dreadfull events of rustick dominering souldiers. Being a caveat for all cities, and subjects in the world, how they take up armes against their native King. Looke on Psal. 55. from verse 12. to the latter end of the 16.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90090</idno><idno type="EEBO-CITATION">99864097</idno>
+  <idno type="VID">116316</idno>
+  <idno type="EEBO-PROQUEST">2240905212</idno>
+  
+            <idno type="STC">Wing O110</idno>
+            <idno type="STC">Thomason E419_10</idno>
+            <idno type="STC">ESTC R204632</idno>
+            <idno type="PROQUEST">99864097</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864097e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116316)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon, and in answer to his excellencies late letter to the honourable Citie of London, for raising assessements, and free-quarter, (alias) plunder. With the dreadfull events of rustick dominering souldiers. Being a caveat for all cities, and subjects in the world, how they take up armes against their native King. Looke on Psal. 55. from verse 12. to the latter end of the 16.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Love-Joy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Fairfax, Thomas  A letter from His Excellency Sir Tho: Fairfax, to the Lord Major, aldermen and Common-Councel of the city of London, from Kingston, Novemb. 19. 1647.</note>
+                  <note>Imperfect: text show-through.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671. --  A letter from His Excellency Sir Tho: Fairfax, to the Lord Major, aldermen and Common-Councel of the city of London, form Kingston, Novemb. 19. 1647.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116316:1"/>
+            <pb facs="tcp:116316:1"/>
+            <p>OBSERVATIONS UPON, AND IN Answer to his Excellencies late LETTER To The Honourable Citie of <hi>LONDON,</hi> For raising Assessements, and Free-Quarter, <hi>(alias)</hi> Plunder.</p>
+            <p>WITH The Dreadfull Events of Rustick Dominering SOULDIERS.</p>
+            <p>BEING A Caveat for all Cities, and Subjects in the World, how they take up Armes against their Native KING.</p>
+            <q>
+               <bibl>
+                  <hi>Looke on</hi> Psal. 55. <hi>from</hi> verse 12. <hi>to the latter end of the</hi> 16.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Love-Joye,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116316:2"/>
+            <pb n="1" facs="tcp:116316:2"/>
+            <head>Observations upon, and in Answer to His Excellencies late Letter, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Citie which of late, Forrainers courted for the fairest of ten thousand, now seems to prostrate her self as a defac'd and deflou<g ref="char:EOLhyphen"/>red Strumpet, whom forraine parts reported the sure Magazine even to a Mirrour, now cannot parallel the security of a private <hi>Cash-box,</hi> where<g ref="char:EOLhyphen"/>fore she may hang up her Harps on the willowes and whine out a ditty for her devout <hi>Champious:</hi> because the abject of her highest hopes becomes the subject of greatest Demands, the front of her felicity is penuriously plac'd in the arear, so that his Majesties Prerogative cannot head the Van; but alas poore particular Citie when her Generall speaks universall souldiers <hi>Soveraigne.</hi>
+            </p>
+            <p>And his Excellency is pleased in the beginning of his late Letter to mention what tendernesse hath had been exerci<g ref="char:EOLhyphen"/>sed by Him selfe and this Army towards the Citie to pre<g ref="char:EOLhyphen"/>serve it from the least dammage; it is true the Citie was long with childe of a Charter, and the Man-midwife very gingerly brought her to bed no, danger redounded thereby but by making the Market place a thorough fare for <hi>Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and so frighting the poor Hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders of the Custome Hor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as far as <hi>Amsterdam,</hi> in homage to the <hi>Army</hi> of <hi>Saints;</hi> the
+<pb n="2" facs="tcp:116316:3"/> Tower Bulloin was taken out, and if the Town B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l had bin put in the Citty had bin preserved stem damage <hi>Notwithstanding great provocations,</hi> the greatest provo<g ref="char:EOLunhyphen"/>cation that ever durst shew it self on this side hel claims acquaintance with the Army, who provokt the King from <hi>Holdenby</hi> we may take His Majesties opinion declares in (the narrative) a company of proper Gentlemen of His Ex<g ref="char:EOLhyphen"/>cellencies, or Master <hi>Ioyces</hi> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my, who provoked the Commissioners of the Parliament; of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> who provoked the very nature and body of our Par<g ref="char:EOLhyphen"/>liament to be purg'd, which is against their nature being in themselves the Representative health of the Kingdom, and against the naturall discipline of warre; For the establish<g ref="char:EOLhyphen"/>ment of which (His Ezcellency doth mention much acti<g ref="char:EOLhyphen"/>vity in the former Letter, dated <hi>Putuey</hi> 1647. in these words, <hi>J thought fit to let you know, that by the advice of the Generall Councell of the Army J have appointed a Rendez<g ref="char:EOLhyphen"/>vous speedily, and they have very unanimously offered to repaire to their severall Charges, and improve to their utmost endeavours with the severall Regiments for the quieting of them, and the recovering the ancient discipline of the Army to render it more serviceable to the Parliament and Kingdome; and to the end your expectations and desires of all good men may be answered by a good issue in this worke of so much concernment to the Kingdom.</hi> From whence the result doth properly a<g ref="char:EOLhyphen"/>rise, that it was your Army which had lost their ancient discipline, cousequently been lesse serviceable or lesse then serviceable to the Parliament and Kingdome, and the de<g ref="char:EOLhyphen"/>sires of good men have not been answered, but themselves in both Citie and Kingdome provoked by being disappoin<g ref="char:EOLhyphen"/>ted in the bad issue of this worke, <hi>with what patience wee have waited for the raising of those Arrears, which have been
+<pb n="3" facs="tcp:116316:3"/> long since done,</hi> questionlesse Sir for your particular person in patience you may possesse your soule, but the Army is very impatient to have a shire in all possessions: Commu<g ref="char:EOLhyphen"/>nity is very impatient of propriety. Have but a little pati<g ref="char:EOLhyphen"/>ence, did not your Excellency before the King came to <hi>Holdenbie</hi> humbly present on the knees of Loya<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie a solemn Protestation, not only of preserving His Majesties person, but speedy promoting of it to His Throne, maugre all si<g ref="char:EOLhyphen"/>nister designes; but since have not those Agitating Agents, had patience enough to stay the turning of their passion into an action (at <hi>Hampton</hi>) against His Majesty, and whilst those sonnes of Committy men were trayterising an Indite<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they would put in practise an Execution, but in refe<g ref="char:EOLhyphen"/>rence (to the waiting of Arrears) which is nothing else but that the Armies patience or wayting hath been to rayse or augment Arrears, which is verified in the 100000, <hi>per mensem</hi> from 60000. The subsequent words expresse the Armies lying so long about the Citie, and that they cannot continue much longer without intolerable opqression) for which kind of oppression ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a palpable toleration in liberty of conscience; for example, my conscience and a<g ref="char:EOLhyphen"/>nother mans take free leave one of another, in point of opinion doe censure by way of contraryes, so what in his is indeed intolerable oppression, in mine is in zeal, or a meek imposition; therfore it must have an Independent, past yet the Army cannot lye any longer, then would suddenly some Miracles were wrought amongst them, that they would willingly take up their Lowsie, beds and walke, give sire to their Ammunitions, and be gone, accept of their bare Arrears which is sufficient to cloath you, and their ruly be<g ref="char:EOLhyphen"/>gotten posterity of <hi>England,</hi> and be disbanded; for it is suf<g ref="char:EOLhyphen"/>ficient for them to be Priests and Prophets and not Kings—
+<pb n="4" facs="tcp:116316:4"/>
+               <hi>and yet after so long and obstinate with-holding, what hath been their due in affront to the Parliament, and in the face of an Army</hi> how can they be obstinate, whose soft hearts at first even mel<g ref="char:EOLhyphen"/>ted, their silver Charges, Basons, Boles, Poringers, spoons, Rings, and Whistles into a streem of rebellious blood, in which this Army hath swum to this present high tyde of un<g ref="char:EOLhyphen"/>charitable <hi>Impeachment</hi> and how can the Citie probably act any thing in affront to that power, whose defensative Frontiers they ever were: But alas poor Metropolitan thy case is pittifully bewrayed for thou art now taxt for doing in the face of an Army, but by consequence they resolve to doe in thine; so it is a pure Prophesie that the Armies blind cheeks must serve the Citizens for Spectacles: Because they must have no other Prospects then their black-parts: the ensuing discourse, doth shew the reasons of not with<g ref="char:EOLhyphen"/>drawing the Army from the City: because after the much warning given, if they should only pay them Arrears it would be an ill example: If it be an ill evample to pay all that is due, then surely it is one good example to pay none at all: <hi>via contrariarum,</hi> by way of coutraryes; as for an in<g ref="char:EOLhyphen"/>stance, pay but the devill his due of Arrears, in riches, to wit extortion, in the day; and he will impose a disquiet re<g ref="char:EOLhyphen"/>posall in the night, still he puts a penalty to distresse, adds punishment to payment, and why, because the Divell is int, which leads to the grand purgatory of persecution speci<g ref="char:EOLhyphen"/>fied in these words: <hi>For the speedy levying both of Arrears and Penaltyes; qui ante non caveat post dolebit,</hi> touch but the Cats tayle and you hazard a scratch the <hi>Arreare faces</hi> about the penalty: if it had been levy Arrears, under penalty of being pull'd by the eares; wee should have heard the sound of mercy: or if levy Arreares under penalty of our high dis<g ref="char:EOLhyphen"/>pleasure: a proportion of justice had stept in: but levy
+<pb facs="tcp:116316:4"/> Arreares and penalty, is such a compound of taxations, that it will make but simple ingredients of all our <hi>Citizens:</hi> O monstrous horror, indeed sure this is no simptome of an <hi>Army</hi> of <hi>Saints,</hi> for persecution by St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> should worse then be the persecution of Saints. Me thinks I see the subtile ghosts of deceased Monopolizers offer incense to this penalty po<g ref="char:EOLhyphen"/>sture, as transcendent; having gain'd a perpetuall patent of standing to their armes, God a mercy black <hi>Tom,</hi> the ship Mony strikes sayle to this <hi>Man</hi> of <hi>War;</hi> the Pole mony for <hi>Pauls</hi> Church repairation, whisper'd but a summons in the eares of the devout vulgar; having reasons of some tune, to second their good designe, as to reforme Organs, untill they spoke nothing but latin, and as men lead Bares by the noses to the Bare-garden, so they would lug men by the eares to Paradise, or at least tickle them till they thinke so, (but this) thunder bolts the <hi>Joliheads</hi> of our <hi>Jerusalem</hi> by way of levying or levelling, that their hornes should not be exalted above their brethren, but be themselves reduced to the old obedience of subsidie subjects for the trai<g ref="char:EOLhyphen"/>nins up of <hi>Saints,</hi> to the fulfilling of their prophesie, of raigning a thousand yeeres on the earth; the subsequent matter bespeakes the necessity of it to satisfie; being for<g ref="char:EOLhyphen"/>merly imposed by the <hi>advice of the Counsell of War:</hi> Here is just the Divell and his Dam, needs must whom the Devill drives, there is no Law for it, for there it must bee done of necessity, because necessity hath no law. <hi>And whose wilfulness (if not malignity or designe) have necessitated this, will heare the blame of all ill consequences that may ensue.</hi> That is as much as to say, if the Citizens do not leave all and follow him, they shall have nothing at al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o live upon, now towards Christide the truth is accomplished, many false Christs are sprung up, and the Divell a bit of Christianity is in them
+<pb n="6" facs="tcp:116316:5"/> yet the City Charter shall be turned into Charity. because Common-Prayers are for community, and to keep Mony is Malignancy: It is a <hi>Designe</hi> not to answer the demand of a Commander. And those that will not willingly be of the Tribe of <hi>Many-asses,</hi> and bear all taxations will beare the blame of necessity of all the righteous blood that hath been spilt since the <hi>King catching,</hi> and <hi>King-killing</hi> stratagems, henceforth and for ever.</p>
+            <p>The remainder serves for a martial manner of levying, but it exposing the swords point in case of opposition I will absent my selfe aside for my own security. Humbly desiring your Excellency because you stand at the Helme to steere steedy, or the winds and the seas will not obey you, unlesse you obey the supreme Providence, in establishing the Throne of its vicegerent <hi>King Charles;</hi> settling the Fundamentall Lawes instead of <hi>Necessities,</hi> and <hi>Penalties.</hi> and reducing Parliament and Kingdom to its former perfection, and then, but not before shall we have a great calme,</p>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
